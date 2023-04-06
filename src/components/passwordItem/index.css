@@ -1,0 +1,31 @@
+.listItemContainer {
+  display: flex;
+  border: 1px solid #b6c3ca;
+  width: 250px;
+  color: white;
+  justify-content: space-around;
+  border-radius: 5px;
+  margin: 8px;
+  height: 120px;
+}
+.firstName {
+  padding: 12px;
+  font-size: 26px;
+  height: 53px;
+  width: 50px;
+  font-weight: 400;
+  text-align: center;
+  border-radius: 100px;
+  background-color: #10b981;
+  border: none;
+}
+.deleteButton {
+  background-color: transparent;
+  border: none;
+}
+.deleteImage {
+  height: 20px;
+}
+.stars {
+  width: 120px;
+}
